@@ -1,0 +1,13 @@
+SQL File,tpc Execution Time (ms),tpc_np Execution Time (ms)
+10.sql,1881,1139
+12.sql,1879,383
+13.sql,102931,414
+14.sql,500,190
+17.sql,1898,294
+19.sql,834,329
+1.sql,237989,1500
+3.sql,1076,318
+5.sql,1033,303
+6.sql,2920,232
+7.sql,917,338
+9.sql,4262,882
